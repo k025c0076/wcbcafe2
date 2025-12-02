@@ -228,6 +228,17 @@ img {
     font-size: .875rem;
     padding: .5rem .75rem;
 }
+.post-cat a:hover {
+    background-color: #c9c2bc
+}
 .post-date {
     font-size: .875rem;
+}
+.post-thumbnail {
+    border-radius: 16px;
+    margin-bottom: 1.5rem;
+}
+.post p {
+    margin-bottom: 1.5rem;
+    line-height: 2;
 }
