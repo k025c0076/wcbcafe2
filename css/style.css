@@ -174,16 +174,22 @@ img {
         justify-content: space-between;
     }
     .post {
-        width: 70%;
+        width: 60%;
+        order: 2;
     }
     .sidebar {
         width: 22%;
+        order: 3;
     }
+    .ad {
+        order: 1;
+    }
+    
     .sidebar .heading-medium {
         line-height: 1;
         margin-bottom: 1rem;
     }
-    
+
     /* フッター　*/
     .page-footer {
         background-image: url(../images/footer-l.webp);
